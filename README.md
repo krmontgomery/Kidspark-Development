@@ -1,4 +1,4 @@
-# Kidspark 3D Model Interaction Enviroment
+# Kidspark 3D Model Interactive Enviroment
 This is a development repository for creating a 3D workspace for rendering and interacting with models as it relates to Kidspark.
 
 ## For more information about Kidspark
